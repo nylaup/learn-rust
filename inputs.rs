@@ -15,9 +15,6 @@ fn main() {
     let param1 = &args[1];
     let param2 = &args[2];
 
-    dt_param1 = 5;
-    dt_param2 = 4;
-
     // Print the parameters
     println!("First parameter: {}", param1);
     println!("Second parameter: {}", param2);
