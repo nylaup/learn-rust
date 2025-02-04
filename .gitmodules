@@ -1,0 +1,3 @@
+[submodule "presign-s3"]
+	path = presign-s3
+	url = git@github.com:nmagee/presign-s3.git
