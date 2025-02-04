@@ -22,10 +22,10 @@ Learn about the Rust programming language.
 
 ## Setting Up
 
-To work with Rust it is recommended that you install **Cargo**. Cargo does the following:
+To work with Rust it is recommended that you install [**Cargo**](https://doc.rust-lang.org/cargo/getting-started/installation.html). Cargo does the following:
 
 - Init new Rust projects
 - Package manager
 - Compiler
 - Runs tests
-- Publish packages/releases to crates.io
+- Publish packages/releases to https://crates.io/
