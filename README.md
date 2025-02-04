@@ -2,6 +2,8 @@
 
 Learn about the Rust programming language.
 
+<img src="https://rustacean.net/assets/rustacean-flat-happy.png" aligln="right" style="float:right; max-width:25%" />
+
 ## How to use this repository
 
 1. Clone the repo as usual to your local workstation.
